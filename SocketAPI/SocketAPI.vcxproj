@@ -139,6 +139,7 @@
     <ClInclude Include="NetworkConnection.h" />
     <ClInclude Include="NetworkDevice.h" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="SocketAPI.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp" />
