@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Tester\\SocketAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2640F5-D6E0-4250-855B-2F02EECC9185}|SocketAPI.vcxproj|C:\\Projects\\Tester\\SocketAPI\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A2640F5-D6E0-4250-855B-2F02EECC9185}|SocketAPI.vcxproj|solutionrelative:dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2640F5-D6E0-4250-855B-2F02EECC9185}|SocketAPI.vcxproj|C:\\Projects\\Tester\\SocketAPI\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A2640F5-D6E0-4250-855B-2F02EECC9185}|SocketAPI.vcxproj|solutionrelative:pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2640F5-D6E0-4250-855B-2F02EECC9185}|SocketAPI.vcxproj|C:\\Projects\\Tester\\SocketAPI\\NetworkDevice.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A2640F5-D6E0-4250-855B-2F02EECC9185}|SocketAPI.vcxproj|solutionrelative:NetworkDevice.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2640F5-D6E0-4250-855B-2F02EECC9185}|SocketAPI.vcxproj|C:\\Projects\\Tester\\SocketAPI\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A2640F5-D6E0-4250-855B-2F02EECC9185}|SocketAPI.vcxproj|solutionrelative:framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2640F5-D6E0-4250-855B-2F02EECC9185}|SocketAPI.vcxproj|C:\\Projects\\Tester\\SocketAPI\\NetworkConnection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A2640F5-D6E0-4250-855B-2F02EECC9185}|SocketAPI.vcxproj|solutionrelative:NetworkConnection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2640F5-D6E0-4250-855B-2F02EECC9185}|SocketAPI.vcxproj|C:\\Projects\\Tester\\SocketAPI\\NetworkDevice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A2640F5-D6E0-4250-855B-2F02EECC9185}|SocketAPI.vcxproj|solutionrelative:NetworkDevice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2640F5-D6E0-4250-855B-2F02EECC9185}|SocketAPI.vcxproj|C:\\Projects\\Tester\\SocketAPI\\NetworkConnection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A2640F5-D6E0-4250-855B-2F02EECC9185}|SocketAPI.vcxproj|solutionrelative:NetworkConnection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2640F5-D6E0-4250-855B-2F02EECC9185}|SocketAPI.vcxproj|C:\\Projects\\Tester\\SocketAPI\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A2640F5-D6E0-4250-855B-2F02EECC9185}|SocketAPI.vcxproj|solutionrelative:pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NetworkConnection.cpp",
+              "DocumentMoniker": "C:\\Projects\\Tester\\SocketAPI\\NetworkConnection.cpp",
+              "RelativeDocumentMoniker": "NetworkConnection.cpp",
+              "ToolTip": "C:\\Projects\\Tester\\SocketAPI\\NetworkConnection.cpp",
+              "RelativeToolTip": "NetworkConnection.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-15T16:30:24.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NetworkDevice.h",
+              "DocumentMoniker": "C:\\Projects\\Tester\\SocketAPI\\NetworkDevice.h",
+              "RelativeDocumentMoniker": "NetworkDevice.h",
+              "ToolTip": "C:\\Projects\\Tester\\SocketAPI\\NetworkDevice.h",
+              "RelativeToolTip": "NetworkDevice.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-15T15:51:43.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NetworkConnection.h",
+              "DocumentMoniker": "C:\\Projects\\Tester\\SocketAPI\\NetworkConnection.h",
+              "RelativeDocumentMoniker": "NetworkConnection.h",
+              "ToolTip": "C:\\Projects\\Tester\\SocketAPI\\NetworkConnection.h",
+              "RelativeToolTip": "NetworkConnection.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-15T15:51:42.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NetworkDevice.cpp",
+              "DocumentMoniker": "C:\\Projects\\Tester\\SocketAPI\\NetworkDevice.cpp",
+              "RelativeDocumentMoniker": "NetworkDevice.cpp",
+              "ToolTip": "C:\\Projects\\Tester\\SocketAPI\\NetworkDevice.cpp",
+              "RelativeToolTip": "NetworkDevice.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-15T15:51:41.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\Projects\\Tester\\SocketAPI\\framework.h",
+              "RelativeDocumentMoniker": "framework.h",
+              "ToolTip": "C:\\Projects\\Tester\\SocketAPI\\framework.h",
+              "RelativeToolTip": "framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-15T13:18:44.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Projects\\Tester\\SocketAPI\\pch.cpp",
+              "RelativeDocumentMoniker": "pch.cpp",
+              "ToolTip": "C:\\Projects\\Tester\\SocketAPI\\pch.cpp",
+              "RelativeToolTip": "pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-15T13:18:40.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Projects\\Tester\\SocketAPI\\pch.h",
+              "RelativeDocumentMoniker": "pch.h",
+              "ToolTip": "C:\\Projects\\Tester\\SocketAPI\\pch.h",
+              "RelativeToolTip": "pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-15T13:18:39.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Projects\\Tester\\SocketAPI\\dllmain.cpp",
+              "RelativeDocumentMoniker": "dllmain.cpp",
+              "ToolTip": "C:\\Projects\\Tester\\SocketAPI\\dllmain.cpp",
+              "RelativeToolTip": "dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-08T11:16:44.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

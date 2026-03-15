@@ -1,0 +1,7 @@
+﻿  NetworkConnection.cpp
+C:\Projects\Tester\SocketAPI\NetworkConnection.cpp(19,3): warning C4002: 함수 같은 매크로 호출 'assert'에 대해 인수가 너무 많습니다.
+  (소스 파일 '/NetworkConnection.cpp'을(를) 컴파일하는 중)
+  
+  dllmain.cpp
+  코드를 생성하고 있습니다...
+  SocketAPI.vcxproj -> C:\Projects\Tester\SocketAPI\x64\Debug\SocketAPI.dll
