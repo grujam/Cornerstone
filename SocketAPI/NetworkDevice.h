@@ -1,12 +1,11 @@
 #pragma once
-#include <winsock2.h>
 #include <string>
 #include <mutex>
 #include <vector>
+#include "Macros.h"
 
 class CNetworkConnection;
-
-class CNetworkDevice
+class SOCKET_API CNetworkDevice
 {
 private:
     CNetworkDevice() : m_socket(INVALID_SOCKET) {} // »ý¼ºÀÚ private

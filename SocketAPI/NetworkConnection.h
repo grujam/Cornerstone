@@ -1,8 +1,8 @@
 #pragma once
-
 #include <string>
+#include "Macros.h"
 
-class CNetworkConnection
+class SOCKET_API CNetworkConnection
 {
 public:
 	void InitializeConnection();

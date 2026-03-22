@@ -18,7 +18,7 @@
     <ClInclude Include="framework.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="pch.h">
+    <ClInclude Include="stdafx.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="NetworkDevice.h">
@@ -27,7 +27,7 @@
     <ClInclude Include="NetworkConnection.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="SocketAPI.h">
+    <ClInclude Include="Macros.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
@@ -35,7 +35,7 @@
     <ClCompile Include="dllmain.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="pch.cpp">
+    <ClCompile Include="stdafx.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="NetworkConnection.cpp">

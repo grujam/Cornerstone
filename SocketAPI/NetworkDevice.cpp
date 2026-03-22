@@ -1,4 +1,4 @@
-#include "pch.h"
+#include "stdafx.h"
 #include "NetworkDevice.h"
 #include <iostream>
 #include <ws2tcpip.h>
