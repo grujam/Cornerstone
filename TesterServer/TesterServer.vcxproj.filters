@@ -14,15 +14,15 @@
     <ClCompile Include="main.cpp">
       <Filter>Source</Filter>
     </ClCompile>
-    <ClCompile Include="..\Tester\stdafx.cpp">
+    <ClCompile Include="stdafx.cpp">
       <Filter>Source</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Tester\stdafx.h">
+    <ClInclude Include="..\Tester\DLLIncludes.h">
       <Filter>Headers</Filter>
     </ClInclude>
-    <ClInclude Include="..\Tester\DLLIncludes.h">
+    <ClInclude Include="stdafx.h">
       <Filter>Headers</Filter>
     </ClInclude>
   </ItemGroup>

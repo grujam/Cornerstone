@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Projects\Tester\x64\Debug\TesterServer.exe</FullPath>
+      <FullPath>C:\Projects\Cornerstone\x64\Debug\TesterServer.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

@@ -2,6 +2,6 @@
 
 #ifdef SOCKETAPI_EXPORTS
 #define SOCKET_API __declspec(dllexport)
-#else SOCKETAPI_EXPORTS
+#else 
 #define SOCKET_API __declspec(dllimport)
 #endif

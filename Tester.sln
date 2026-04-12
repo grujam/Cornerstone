@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tester", "Tester\Tester.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TesterServer", "TesterServer\TesterServer.vcxproj", "{C1C3041B-A89B-4A97-ADA0-E2935223E0F9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SocketAPI", "SocketAPI\SocketAPI.vcxproj", "{7A2640F5-D6E0-4250-855B-2F02EECC9185}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{C1C3041B-A89B-4A97-ADA0-E2935223E0F9}.Release|x64.Build.0 = Release|x64
 		{C1C3041B-A89B-4A97-ADA0-E2935223E0F9}.Release|x86.ActiveCfg = Release|Win32
 		{C1C3041B-A89B-4A97-ADA0-E2935223E0F9}.Release|x86.Build.0 = Release|Win32
+		{7A2640F5-D6E0-4250-855B-2F02EECC9185}.Debug|x64.ActiveCfg = Debug|x64
+		{7A2640F5-D6E0-4250-855B-2F02EECC9185}.Debug|x64.Build.0 = Debug|x64
+		{7A2640F5-D6E0-4250-855B-2F02EECC9185}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A2640F5-D6E0-4250-855B-2F02EECC9185}.Debug|x86.Build.0 = Debug|Win32
+		{7A2640F5-D6E0-4250-855B-2F02EECC9185}.Release|x64.ActiveCfg = Release|x64
+		{7A2640F5-D6E0-4250-855B-2F02EECC9185}.Release|x64.Build.0 = Release|x64
+		{7A2640F5-D6E0-4250-855B-2F02EECC9185}.Release|x86.ActiveCfg = Release|Win32
+		{7A2640F5-D6E0-4250-855B-2F02EECC9185}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
