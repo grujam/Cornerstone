@@ -243,6 +243,9 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+# Customs
 *.vsidx
 *.tlog
 *.log
+/SocketAPI/.vs
