@@ -1,13 +1,38 @@
 #include "pch.h"
 #include "Thread.h"
 
-#define CHECK_THREAD_VALID \
-if(!m_Thread.joinable()) \
-	return; \
-
 void CThread::Wait()
 {
-	CHECK_THREAD_VALID;
 
 	
+}
+
+// ----------------------------------- ThreadManager --------------------------------------------
+
+void CThreadManager::AddThreadToPool(const std::shared_ptr<CThread>& pThread)
+{
+	if (m_ThreadPool.contains(pThread))
+		return;
+
+	m_ThreadPool.insert(pThread);
+}
+
+void CThreadManager::RemoveThreadToPool(const std::shared_ptr<CThread>& pThread)
+{
+	if (m_ThreadPool.contains(pThread))
+		m_ThreadPool.erase(pThread);
+}
+
+void CThreadManager::OnTick()
+{
+	
+}
+
+void CDeadlockDetection::OnDeadlockDetected()
+{
+}
+
+void CDeadlockDetection::DetectDeadlock()
+{
+
 }

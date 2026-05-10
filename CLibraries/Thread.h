@@ -1,6 +1,13 @@
 #pragma once
+
+// STD Headers
 #include <thread>
 #include <future>
+#include <set>
+#include <memory>
+
+// Custom Headers
+#include "Singleton.h"
 
 class CThread
 {
@@ -22,7 +29,8 @@ public:
 	void Wait();
 
 private:
-	std::jthread m_Thread;
+	std::shared_ptr<std::jthread> m_Thread;
+	
 };
 
 template<typename T>
@@ -50,4 +58,33 @@ public:
 
 private:
 	std::future<T> m_Future;
+};
+
+class CThreadManager : ISingleton<CThreadManager>
+{
+	friend CDeadlockDetection;
+
+public:
+	template<typename Func, typename... Args>
+	void CreateThread(Func&& pFunc, Args&&... args);
+	void DeleteThread();
+
+private:
+	void AddThreadToPool(const std::shared_ptr<CThread>& pThread);
+	void RemoveThreadToPool(const std::shared_ptr<CThread>& pThread);
+
+	void OnTick();
+
+	
+private:
+	std::set<std::shared_ptr<CThread>> m_ThreadPool;
+};
+
+class CDeadlockDetection : ISingleton<CDeadlockDetection>
+{
+public:
+	void OnDeadlockDetected();
+	// 자원 할당 확인 기법
+	void DetectDeadlock();
+
 };

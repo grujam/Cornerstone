@@ -140,10 +140,12 @@
     <ClInclude Include="Log.h" />
     <ClInclude Include="Macros.h" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="Singleton.h" />
     <ClInclude Include="Thread.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Log.cpp" />
+    <ClCompile Include="Singleton.cpp" />
     <ClCompile Include="Thread.cpp" />
     <ClCompile Include="dllmain.cpp" />
     <ClCompile Include="pch.cpp">
